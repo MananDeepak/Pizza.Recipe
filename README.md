@@ -1,1 +1,1 @@
-# Pizza.Recipe
+# PizzaRecipe

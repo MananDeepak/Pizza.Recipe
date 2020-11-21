@@ -1,0 +1,1 @@
+Pizza base,oil,vegetables-tomato,onion,cabage,mushroom,capsicum, etc.,oven,base cutter,oregano,cheese,sause etc
